@@ -1,0 +1,28 @@
+{
+  "estudantes": [
+    {
+      "id": 1,
+      "name": "Luiz",
+      "email": "luiz@gmail.com",
+      "ra": "402972458",
+      "telefone": "(11)911385456",
+      "turma": "1° A"
+    },
+    {
+      "id": 2,
+      "name": "Kleitinho",
+      "email": "kleytinho@gmail",
+      "ra": "546146346",
+      "telefone": "54616146",
+      "turma": "2° C"
+    },
+    {
+      "id": 3,
+      "name": "Maria Neves",
+      "email": "maria.neves",
+      "ra": "514365",
+      "telefone": "(11)914646464",
+      "turma": "3° A"
+    }
+  ]
+}
